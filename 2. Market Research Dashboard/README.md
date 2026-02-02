@@ -90,9 +90,9 @@ The dashboard shows:
 ---
 
 ## Tools Used
-- Power BI  
+- Power BI (data model, visuals, interactions)
 - Power Query (data cleaning and reshaping)  
-
+- Data modelling (Star Schema): Fact Customers + Dim Product, Dim Campaign, Dim Platform
 ---
 
 ## Notes
