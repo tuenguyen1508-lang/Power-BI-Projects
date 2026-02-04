@@ -6,7 +6,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## ✅ Executive Recommendations 
+## Executive Recommendations 
 
 - **Align store hours with demand:** Trial slightly later opens and/or earlier closes, since sales **before 7 AM and after 7 PM** contribute only **3.6%** of year-to-date revenue.  
 - **Strengthen peak-hour staffing (9–11 AM):** Add coverage around the **10 AM rush** to reduce queues and capture more sales during the busiest time.  
@@ -16,7 +16,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 🎯 Key Questions Answered
+## Key Questions Answered
 
 1. **Which products are driving revenue so far in 2023?**  
 2. **When do Melbourne stores generate the most revenue (time of day + day of week)?**  
@@ -24,7 +24,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Rows:** 149,117 (including headers)  
 - **Columns (11):**
@@ -42,7 +42,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 🧱 Data Model (Star Schema)
+## Data Model (Star Schema)
 
 - **Fact table:** `Fact_Transactions`  
 - **Dimension tables:**
@@ -52,7 +52,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 🔍 Key Insights (2023 YTD)
+## Key Insights (2023 YTD)
 
 - **Total sales:** **$698,812** across **149,116 transactions**  
 - **Average order size:** **$4.69**
@@ -70,7 +70,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 📈 Forecast & Targets (2023)
+## Forecast & Targets (2023)
 
 - **Base target (first-year):** **$1,409,207** across the three Melbourne stores (based on average daily sales to date).  
 - **Momentum note:** Average daily sales increased from **$2,852 (Jan–Mar)** to **$4,859 (Apr–Jun)**.  
@@ -78,7 +78,7 @@ An infographic-style Power BI report that highlights performance across Minnie K
 
 ---
 
-## 📌 Visuals & Methods
+## Visuals & Methods
 
 Built using **DAX measures** and a mix of visuals for comparisons and trends, including:
 - Bar charts  
@@ -89,7 +89,7 @@ Built using **DAX measures** and a mix of visuals for comparisons and trends, in
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Microsoft Power BI** (data model, visuals, interactions)  
 - **Power Query** (data cleaning and shaping)  
@@ -98,7 +98,7 @@ Built using **DAX measures** and a mix of visuals for comparisons and trends, in
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All figures are **year-to-date (2023)** and reflect transactions recorded in the dataset.  
 - Targets are **estimates** based on current average daily sales; results may change with seasonality, promotions, staffing, and operating hours.  
