@@ -86,6 +86,15 @@ This dashboard reviews MM PET’s product and sales performance across 2024–20
 
 ---
 
+## Tools Used
+
+- **Microsoft Power BI** (data model, visuals, interactions)  
+- **Power Query** (data cleaning and shaping)  
+- **DAX** (measures for AoV, YoY %, total orders, total revenue)  
+- **Star Schema modelling** (Fact + Dimensions)
+
+---
+
 ## What’s Next
 ### Next Steps: Digging Into the “Why”
 In the next presentation, I’ll use a deep-dive analysis hierarchy to explain why Sydney’s revenue was higher in 2024, even though Sydney’s orders were higher in 2025.
