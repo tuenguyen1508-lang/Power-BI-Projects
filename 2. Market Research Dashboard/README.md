@@ -40,7 +40,7 @@ The dashboard answers four core questions:
 ---
 
 ## Data Preparation (Power Query)
-I cleaned and reshaped the data in **Power Query**, then created three supporting tables from the main dataset:
+I cleaned and reshaped the data in **Power Query** (transformed year to ages, replaced values, renamed columns,..), then created three supporting tables from the main dataset:
 
 - **Campaign**: (ID, campaign, Accepted_Ind)  
 - **Products**: (ID, product, total sales)  
