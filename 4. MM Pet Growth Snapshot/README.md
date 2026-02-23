@@ -89,7 +89,7 @@ This dashboard reviews MM PET’s product and sales performance across 2024–20
 ## Tools Used
 
 - **Microsoft Power BI** (data model, visuals, interactions)  
-- **Power Query + Excel** (data cleaning and shaping)  
+- **Power Query + Excel** (data viewing, cleaning and shaping)  
 - **DAX** (measures for AoV, YoY %, total orders, total revenue)  
 - **Star Schema modelling** (Fact + Dimensions)
 
