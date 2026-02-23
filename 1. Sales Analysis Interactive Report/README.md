@@ -18,23 +18,53 @@ This project is an **interactive Sales Analysis dashboard built in Microsoft Pow
 - Use of **icons / animated icons** to improve readability and engagement
 - Applied **web/app-style layout principles** (home/help pages, headers, footers)
 
-## Data Model
-The dashboard uses a **star schema** design:
+# Dataset and Data Preparation
+
+## Dataset
+The dataset contains two core tables:
+- **Sales**
+- **Managers**
+
+## Data Preparation (Power Query)
+The data was cleaned and reshaped in **Power Query** using transformations such as:
+- Removing unnecessary columns  
+- Grouping rows  
+- Replacing values  
+- Adding calculated columns  
+
+To support reporting and analysis, I created:
+- **Fact Sales** (main fact table)
+- **Dim Managers** (dimension table built from the Managers table)
+- **Dim Date** (date dimension derived from date fields in the fact table)
+
+---
+
+# Data Model
+
+## Star Schema Design
+The dashboard follows a **star schema** structure, with **Fact Sales** at the center connected to supporting dimensions.
 
 ### Fact Table
-- **Fact Sales**
-  - Includes: `YearMonth`, `Segment`, `Country`, `Product`, `DiscountBand`, etc.
+**Fact Sales**
+- Core sales data for analysis  
+- Includes fields such as: `YearMonth`, `Segment`, `Country`, `Product`, `DiscountBand`, etc.
 
 ### Dimension Tables
-- **Dim Managers**
-  - `ManagerID`, `Name`, `ImageURL`, etc.
-- **Dim Date**
-  - `ReportingPeriod`, `Year`, `Month`, `Quarter`
+**Dim Managers**
+- Includes: `ManagerID`, `Name`, `ImageURL`, etc.
+
+**Dim Date**
+- Includes: `ReportingPeriod`, `Year`, `Month`, `Quarter`
 
 ### Measures Table
-- A dedicated **Measures** table stores all DAX measures used across the report.
+A dedicated **Measures** table stores all **DAX measures** used across the report to keep calculations centralized and easy to maintain.
 
-> `Fact Sales` sits at the centre and connects to `Dim Date` and `Dim Managers`.
+---
+
+## Relationships
+- **Fact Sales** connects to:
+  - **Dim Date** (time-based analysis)
+  - **Dim Managers** (manager-level analysis)
 
 ## Report Pages
 Pages created in the report:
@@ -119,6 +149,12 @@ Pages created in the report:
 
 - Shows **Top 5 managers** for the selected metric
 - Appears when hovering over any data point on the Sales Analysis page
+
+### Tools Used
+- Excel (used to download and review the dataset)
+- Power BI (data model, visuals, interactions)
+- Power Query (data cleaning and reshaping)  
+- Data modelling (Star Schema): Fact Sales + Dim Manager, Dim Date
 
 ## Notes
 This README describes the report structure, modelling approach, and navigation experience. The Power BI file contains the full implementation (data model, DAX measures, report pages, bookmarks, tooltips, and drillthrough).
