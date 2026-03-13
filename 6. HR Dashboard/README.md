@@ -1,4 +1,4 @@
-# HR Data Insights Dashboard: Turning Workforce Data into Actionable Decisions
+# HR Data Insights Dashboard
 
 ## Overview
 In today’s fast-changing workplace, organisations face ongoing challenges in understanding and managing their workforce effectively. HR teams are expected to closely monitor key workforce metrics such as headcount, retention, and turnover. Without clear visibility into these areas, businesses may face higher recruitment costs, reduced employee morale, and critical talent gaps.
