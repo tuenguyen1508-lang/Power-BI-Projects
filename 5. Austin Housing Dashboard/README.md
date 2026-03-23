@@ -1,14 +1,36 @@
 ## Austin Housing Data Insights
 
-### Financial Recommendations
-Based on the listing patterns and feature/price relationships in this dataset, here are practical, non-technical recommendations for buyers and renters comparing options:
+# Housing Market Recommendations
 
-- **Use the median price as your main “typical price” benchmark.** Medians are less affected by very expensive homes, so they often reflect the market more realistically than averages.
-- **Compare homes by “space for the price,” not just total price.** Check living area (sq ft) and lot size together—two homes with similar prices can offer very different value depending on size.
-- **If you want to keep costs down, treat premium features as optional.** Homes with features like **Spa** and **View** tend to be priced higher, so excluding these can widen your affordable choices.
-- **Prioritize what matters most: schools vs. commute vs. features.** If school quality is important, focus on high-rated school zones first, then use the map and filters to balance distance and price.
-- **Use filters to avoid “nice-to-have” extras inflating your shortlist.** Narrow by essentials (beds, baths, parking, HOA) before comparing homes—this helps keep comparisons fair and focused.
-- **For high-end listings, don’t rely on descriptions alone.** Words like *room, living, pool, kitchen, private* are common in $2M+ listings, so use the metrics and features to confirm what’s truly included.
+- **Use median price as the key benchmark**  
+  Median price provides a more realistic view of the market because it is less distorted by a small number of premium listings.
+
+- **Compare homes by value, not just price**  
+  Assess living area and lot size alongside price to identify which properties offer stronger value-for-money under budget constraints.
+
+- **Focus on utility per dollar spent**  
+  Prioritise properties that deliver the most practical benefit for the price, rather than paying for features that may not add equal value.
+
+- **Treat premium features as optional cost drivers**  
+  Features such as spas, scenic views, and luxury finishes often carry a price premium, so excluding them can improve affordability.
+
+- **Use essentials-first filtering to support rational choice**  
+  Narrow options by core needs such as bedrooms, bathrooms, parking, and HOA before comparing additional features.
+
+- **Weigh school quality against opportunity cost**  
+  High-rated school zones may offer stronger non-financial value, but often require trade-offs in price, size, or commute.
+
+- **Consider substitute locations when preferred areas are too expensive**  
+  If demand pushes prices too high in one suburb, compare nearby areas with similar access or amenities to find better-value alternatives.
+
+- **Recognise that high prices often reflect supply–demand pressure**  
+  Homes in desirable locations or with scarce features tend to command higher prices because demand is stronger relative to supply.
+
+- **Do not rely on listing language alone**  
+  Marketing terms in premium listings may signal exclusivity, but buyers should confirm whether the features actually justify the higher price.
+
+- **Shortlist properties based on both affordability and long-term value**  
+  A property that balances price, space, location, and essential features may provide better overall economic value than a higher-priced option with non-essential extras.
 
 > Note: These recommendations are meant for general decision support and should be combined with personal budget, inspections, and local advice.
 
