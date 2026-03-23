@@ -3,12 +3,22 @@
 ## Overview
 In today’s fast-changing workplace, organisations face ongoing challenges in understanding and managing their workforce effectively. HR teams are expected to closely monitor key workforce metrics such as headcount, retention, and turnover. Without clear visibility into these areas, businesses may face higher recruitment costs, reduced employee morale, and critical talent gaps.
 
-## Financial Recommendations
-- Since the **Customer Service** department has the highest turnover (**36.4%**), management should assess whether the ongoing cost of replacing employees in this area is greater than the cost of improving retention through better support, flexibility, or clearer career pathways.  
-- As **Managers** have the highest turnover by job level (**32.8%**), the business should evaluate whether leadership instability is creating indirect costs such as lower productivity, weaker supervision, and disruption to operations.  
-- With **81% of employee turnover being voluntary**, the organisation should focus more on prevention than replacement. Since many employees leave for better benefits flexibility and stronger opportunities, it may be more cost-effective to improve retention strategies than to repeatedly absorb recruitment and onboarding costs.  
-- Since **80% of employees work remotely**, the organisation should continue reviewing whether remote work is helping control operating costs while also supporting retention.  
-- Because retention remained **above 90% each year** and peaked at **97.3% in 2019**, while turnover gradually declined from **2014 to 2019**, the organisation should identify which workforce strategies have been most effective and continue investing in those that deliver the strongest long-term value.  
+# Workforce Retention Recommendations
+
+- **Reduce Customer Service turnover to lower replacement costs**  
+  With Customer Service turnover at 36.4%, the business should compare the cost of replacing staff against the cost of targeted retention initiatives.
+
+- **Stabilise management to avoid productivity losses**  
+  Manager turnover of 32.8% may create hidden costs through weaker supervision, disrupted workflows, and lower team performance.
+
+- **Focus on retention where voluntary turnover is high**  
+  Since 81% of exits are voluntary, improving employee value propositions may be more cost-effective than repeated recruitment and onboarding.
+
+- **Assess remote work through a cost–benefit lens**  
+  With 80% of employees working remotely, the organisation should review whether remote arrangements are improving retention while also reducing operating costs.
+
+- **Continue investing in strategies with proven long-term value**  
+  Since retention stayed above 90% and rose to 97.3% in 2019, management should identify which practices most effectively reduced turnover and continue supporting those that generated the greatest long-term value through lower replacement costs, stronger productivity, and better workforce stability.
 
 ## Objective
 This project aims to build an intuitive and interactive **Power BI dashboard** that provides HR professionals with instant visibility into workforce dynamics. The goal is to support better decision-making around staffing, employee engagement, and retention strategies.
