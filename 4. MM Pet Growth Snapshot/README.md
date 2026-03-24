@@ -20,8 +20,7 @@ The dashboard is divided into four main pages:
   - Dim_Customer (2,177 × 6) (customer id, gender, age band, member types, signup date, active)
   - Dim_Location (16 × 4) (location id, country, region, city, store type)
   - Dim_Product (48 × 11) (product id, sku, product name, pet type, category, sub category, brand,...)
-  - Dim_Date 
-- **Date table:** Built from Transaction Date + **Year / Month / Month Name** for time-intelligence
+  - Dim_Date: Built from Transaction Date + **Year / Month / Month Name** for time-intelligence
 
 ---
 
