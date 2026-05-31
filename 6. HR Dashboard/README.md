@@ -149,10 +149,10 @@ Employee turnover can be costly, making it essential for organisations to unders
 ![this is image](https://github.com/tuenguyen1508-lang/Power-BI-Projects/blob/11632df6a995548675eff2a5a63f7e74ea845197/6.%20HR%20Dashboard/Dataset/images/Screenshot%202026-03-13%20164126.png)
 
 ## Tools Used
-- **Excel** — Downloading and reviewing the dataset  
-- **Power BI** — Data modelling, visualisation, interactivity, and navigation  
-- **Power Query** — Data cleaning and transformation  
-- **Data Modelling** — Star-schema style modelling using fact and dimension tables  
+- **Excel**: Downloading and reviewing the dataset  
+- **Power BI**: Data modelling, visualisation, interactivity, and navigation  
+- **Power Query**: Data cleaning and transformation  
+- **Data Modelling**: Star-schema style modelling using fact and dimension tables  
 
 ## Notes
 The dashboard was designed to be clear, intuitive, and accessible for both technical and non-technical stakeholders. Its focus is on delivering actionable insights, enabling easy exploration, and supporting practical HR decision-making.
