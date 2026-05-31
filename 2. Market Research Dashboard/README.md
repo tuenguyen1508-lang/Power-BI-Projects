@@ -90,10 +90,10 @@ The dashboard shows:
 ---
 
 ## Tools Used
-- Excel (used to download and review the dataset)
-- Power BI (data model, visuals, interactions)
-- Power Query (data cleaning and reshaping)  
-- Data modelling (Star Schema): Fact Customers + Dim Product, Dim Campaign, Dim Platform
+- **Excel**: Used to download and review the dataset
+- **Power BI**: Data model, visuals, interactions
+- **Power Query**: Data cleaning and reshaping
+- **Data modelling** (Star Schema): Fact Customers + Dim Product, Dim Campaign, Dim Platform
 ---
 
 ## Notes
