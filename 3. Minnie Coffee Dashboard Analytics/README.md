@@ -91,10 +91,10 @@ Built using **DAX measures** and a mix of visuals for comparisons and trends, in
 
 ## Tools Used
 
-- **Excel** (used to download and review the dataset)
-- **Microsoft Power BI** (data model, visuals, interactions)  
-- **Power Query** (data cleaning and shaping)  
-- **DAX** (measures for sales, transactions, average order size, time/day analysis)  
+- **Excel**: Used to download and review the dataset
+- **Microsoft Power BI**: Data model, visuals, interactions
+- **Power Query**: Data cleaning and shaping  
+- **DAX**: Measures for sales, transactions, average order size, time/day analysis 
 - **Star Schema modelling** (Fact + Dimensions)
 
 ---
