@@ -151,10 +151,10 @@ Pages created in the report:
 - Appears when hovering over any data point on the Sales Analysis page
 
 ### Tools Used
-- Excel (used to download and review the dataset)
-- Power BI (data model, visuals, interactions)
-- Power Query (data cleaning and reshaping)  
-- Data modelling (Star Schema): Fact Sales + Dim Manager, Dim Date
+- **Excel**: Used to download and review the dataset
+- **Power BI**: Data model, visuals, interactions
+- **Power Query**: Data cleaning and reshaping 
+- **Data modelling** (Star Schema): Fact Sales + Dim Manager, Dim Date
 
 ## Notes
 This README describes the report structure, modelling approach, and navigation experience. The Power BI file contains the full implementation (data model, DAX measures, report pages, bookmarks, tooltips, and drillthrough).
