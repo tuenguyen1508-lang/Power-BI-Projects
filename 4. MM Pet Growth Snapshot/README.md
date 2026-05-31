@@ -142,9 +142,9 @@ The most important next step is to strengthen average order value through better
 ---
 ## Tools Used
 
-- **Power Query + Excel** (data viewing, cleaning and shaping)  
-- **Microsoft Power BI** (data model, visuals, interactions)  
-- **DAX** (measures for AoV, YoY %, total orders, total revenue)  
+- **Power Query + Excel**: Data viewing, cleaning and shaping
+- **Microsoft Power BI**: Data model, visuals, interactions 
+- **DAX**: Measures for AoV, YoY %, total orders, total revenue
 - **Star Schema modelling** (Fact + Dimensions)
 
 ---
