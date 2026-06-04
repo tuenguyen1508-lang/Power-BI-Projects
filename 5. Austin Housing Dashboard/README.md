@@ -127,7 +127,7 @@ Key observations:
 
 ---
 
-### Tools Used
+### Tools & Skills Used
 - **Excel:** Downloading and reviewing the dataset  
 - **Power BI:** Data model, visuals, interactivity, navigation  
 - **Power Query:** Data cleaning and reshaping  
