@@ -150,7 +150,7 @@ Pages created in the report:
 - Shows **Top 5 managers** for the selected metric
 - Appears when hovering over any data point on the Sales Analysis page
 
-### Tools Used
+### Tools & Skills Used
 - **Excel**: Used to download and review the dataset
 - **Power BI**: Data model, visuals, interactions
 - **Power Query**: Data cleaning and reshaping 
