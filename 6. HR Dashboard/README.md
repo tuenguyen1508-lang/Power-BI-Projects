@@ -148,7 +148,7 @@ Employee turnover can be costly, making it essential for organisations to unders
 
 ![this is image](https://github.com/tuenguyen1508-lang/Power-BI-Projects/blob/11632df6a995548675eff2a5a63f7e74ea845197/6.%20HR%20Dashboard/Dataset/images/Screenshot%202026-03-13%20164126.png)
 
-## Tools Used
+## Tools & Skills Used
 - **Excel**: Downloading and reviewing the dataset  
 - **Power BI**: Data modelling, visualisation, interactivity, and navigation  
 - **Power Query**: Data cleaning and transformation  
