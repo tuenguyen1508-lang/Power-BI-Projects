@@ -89,7 +89,7 @@ Built using **DAX measures** and a mix of visuals for comparisons and trends, in
 
 ---
 
-## Tools Used
+## Tools & Skills Used
 
 - **Excel**: Used to download and review the dataset
 - **Microsoft Power BI**: Data model, visuals, interactions
