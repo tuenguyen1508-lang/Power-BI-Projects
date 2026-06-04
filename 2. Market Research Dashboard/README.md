@@ -89,7 +89,7 @@ The dashboard shows:
 
 ---
 
-## Tools Used
+## Tools & Skills Used
 - **Excel**: Used to download and review the dataset
 - **Power BI**: Data model, visuals, interactions
 - **Power Query**: Data cleaning and reshaping
