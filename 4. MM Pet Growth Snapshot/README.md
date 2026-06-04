@@ -140,7 +140,7 @@ This dashboard shows that MM PET achieved stronger business activity in 2025, bu
 The most important next step is to strengthen average order value through better product mix, smarter promotions, bundling strategies, and targeted action in the areas with the greatest revenue leakage.
 
 ---
-## Tools Used
+## Tools & Skills Used
 
 - **Power Query + Excel**: Data viewing, cleaning and shaping
 - **Microsoft Power BI**: Data model, visuals, interactions 
